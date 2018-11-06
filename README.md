@@ -26,3 +26,5 @@
 
 8. Cały projekt jest robiony przeze mnie. Zacząłbym od stworzenia samych mechanik, poruszanie i skakanie, potem kolizja z przeciwnikiem i particle,
    następnie budowa leveli oraz start i reset planszy. Na samym końcu zabawa z featuresami.
+   
+   Ma być to baza, do większego projektu.
